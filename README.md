@@ -3,15 +3,15 @@ A SQL-based project analyzing the 2024 Indian General Elections. Includes insigh
 
 1.Database Tables
  
-     partywise_results
-     
-     constituencywise_results
-     
-     constituencywise_details
-     
-     statewise_results
-     
-     states.
+  partywise_results
+       
+  constituencywise_results
+       
+  constituencywise_details
+       
+  statewise_results
+       
+  states.
 
 
 
